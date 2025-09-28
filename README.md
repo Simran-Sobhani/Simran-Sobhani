@@ -1,23 +1,22 @@
-<h1 align="center">Hi 👋, I'm Simran Sobhani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello 👋 </h1> <h1 align="center"> I'm Simran Sobhani</h1>
+<h3 align="center">A Passionate Frontend Developer from India</h3>
+
+<p>Welcome to my GitHub profile! 🚀  </p>
+<p>I’m passionate about **technology, learning, and building projects** that make an impact.  </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simran-sobhani&label=Profile%20views&color=0e75b6&style=flat" alt="simran-sobhani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simran-sobhani" alt="simran-sobhani" /></a> </p>
 
+## 🌱 About Me
+- 🔭 Currently exploring **[Web Dev, AI, Data Science, etc.]**
+- 🎯 Interested in **Open Source, Problem Solving, and Creative Projects**
+- 📚 Lifelong learner who enjoys discovering new tools & frameworks
 - 🔭 I’m currently working on [yaya](yaya.com)
-
-- 🌱 I’m currently learning **wiwiwi**
-
-- 👯 I’m looking to collaborate on [wiwi](wiwi.com)
-
-- 🤝 I’m looking for help with [chipi chipi](chipi.com)
-
 - 👨‍💻 All of my projects are available at [simran.com](simran.com)
-
 - 💬 Ask me about **wuwuwu**
-
 - 📫 How to reach me **simransobhani356@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=simran-sobhani" alt="simran-sobhani" /> </a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
